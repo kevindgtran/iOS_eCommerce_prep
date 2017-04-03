@@ -1,0 +1,11 @@
+"contemporary" {
+}
+
+"midCenturyModern" {
+}
+
+"rustic" {
+}
+
+"artsAndCrafts" {
+}
